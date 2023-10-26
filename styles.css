@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(214, 226, 240);
+}
+
+.todo-el-contenido{
+    background-color: white;
+    width: 1450px;
+  /*border-radius: 15px; */  
+    text-align: center;
+    padding: 15px;
+    border: solid;
+}
+
+.titulo-principal{
+  font-family: 'Arial', sans-serif;
+  color: red;
+  background-color: black;
+  padding: 10px;
+  text-align: center;
+}
+
+.listado-principal{
+  color: blue;
+  background-color: red;
+  padding: 10px;
+  text-align:center; 
+  margin-top: 2px;
+}
+.listado-principal li{
+  display: inline;
+  margin-right: 5px;
+  justify-content:center;
+}
+.imagen-1{
+  background-color: rgb(230, 173, 203);
+  padding: 5px;
+}
+.platillo-repre{
+  font-family: 'Arial', sans-serif;
+  color: blueviolet;
+  background-color: rgb(173, 216, 230);
+  padding: 10px;
+  text-align: center;
+}
+.tacoss{
+  display:flex;
+  justify-content:space-between;
+  background-color: rgba(216, 183, 173, 0.96);
+  align-items: center;
+}
+.taquito{
+  font-family: 'Arial', sans-serif;
+  color: rgb(128, 0, 102);
+}
+.con{
+  font-family: 'Arial', sans-serif;
+  color: rgb(128, 19, 0);
+}
+.enchi{
+  display:flex;
+  justify-content:space-between;
+  background-color: rgba(173, 216, 196, 0.993);
+  align-items: center;
+}
+.enchila{
+  font-family: 'Arial', sans-serif;
+  color: rgb(0, 2, 128);
+}
+.contii{
+  font-family: 'Arial', sans-serif;
+  color: rgb(0, 115, 128);
+}
+.contac{
+  font-family: 'Arial', sans-serif;
+  background-color: rgba(216, 173, 181, 0.96);
+  padding: 10px;
+}
